@@ -1,12 +1,26 @@
-*/**/node_modules
-**/dist
-# Vue.js projects
-.DS_Store
 node_modules/
+.DS_Store
 dist/
+build/
 
-### VS Code ###
+# editor config
 .vscode/
+.idea
+*.iml
+*.swp
+*.swo
 
-### 配置文件禁止上传 ###
-.env.development
+# istanbul
+coverage
+
+# Logs
+logs
+*.log
+# eslint
+.eslintcache
+
+# next.js build output
+.next
+
+# nuxt.js build output
+.nuxt
