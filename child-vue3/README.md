@@ -1,4 +1,4 @@
-# main-app-vue3
+# child-vue3
 
 ## Project setup
 ```

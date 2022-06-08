@@ -1,5 +1,5 @@
 {
-  "name": "main-app-vue3",
+  "name": "child-vue3",
   "version": "0.1.0",
   "private": true,
   "scripts": {
